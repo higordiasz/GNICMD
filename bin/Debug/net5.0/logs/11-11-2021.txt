@@ -1,0 +1,7 @@
+GNIAPI 15:22:07 Não foi possivel localizar o grupo com nome 'grupo1'
+GNIAPI 15:23:00 Não foi possivel localizar o grupo com nome 'grupo1'
+GNIAPI 15:23:27 Não foi possivel carregar o login da plataforma
+GNIAPI 15:26:50 Erro RodarConta: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+GNIAPI 15:29:23 Erro RodarConta: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+GNIAPI 15:33:19 Erro ao rodar 'Ciclo' : Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+GNIAPI 15:36:43 Erro RodarConta: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
